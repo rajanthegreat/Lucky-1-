@@ -1,4 +1,4 @@
 # Lucky-1-
 This is a my first project.\
 <br>
-Auther -Rajan
+Auther -Rajan Kumar
